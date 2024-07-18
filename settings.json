@@ -1,0 +1,18 @@
+{
+    "EditorDefaultFont": "Consolas",
+    "EditorFontSize": "14",
+    "EditorFontWeight": "bold",
+    "BgColor": "#282C34",
+    "MenuBarTextColor": "#9da39d",
+    "TextColor": "#ABB2BF",
+    "TextSelectionColor": "#3E4451",
+    "UseExperimentalEncrypting": true,
+    "ShowMenuBar": true,
+    "CaretColor": "#528BFF",
+    "ScreenDivisorColor": "#565f6e",
+    "DoubleTextInput": true,
+    "PopUpFont": "Consolas",
+    "PopUpFontSize":"12",
+    "PopUpFontColor": "#c16266",
+    "PopUpBgColor": "#282C34"
+}
